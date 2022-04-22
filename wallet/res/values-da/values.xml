@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>AU, 8 decimaler</item>
+		<item>AU, 6 decimaler</item>
+		<item>AU, 4 decimaler</item>
+		<item>mAU, 2 decimaler</item>
+		<item>µAU, uden decimaler</item>
+	</string-array>
+
+</resources>
