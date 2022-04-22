@@ -1,3 +1,21 @@
+### _Aurumcoin-Wallet_ 
+
+After last changes to the blockchan - 2 blocks are required to change the difficult, this wallet can not server as normal application. 
+
+The community of Aurumcoin needs some help from dev, so please push your patches and recommendations to this repo for the biblio.
+
+Best Regards 
+
+Rossen
+
+### Aurumcoin links
+
+Aurumcoin Community site: https://aurumcoin-au.com/
+
+XMPP/Jabber Discussions: xmpp://aurumcoin-au@conference.teftera.com
+
+### original README 
+
 Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
 
 This project contains several sub-projects:
